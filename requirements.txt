@@ -2,3 +2,4 @@ pandas
 regex
 selenium
 bs4
+unittest
